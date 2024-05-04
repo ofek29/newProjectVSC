@@ -9,6 +9,8 @@ make sure the "code" commend is avalible in your terminal. https://code.visualst
 
 ## how to use:
 1. copy the script into the vsc folder.
-2. give it execute permissions. run: "chmod +x createProject.sh"
+2. give it execute permissions, run: "chmod +x createProject.sh"
 3. run the script by typing: "./creatProject.sh"
 4. enter the desired folder name for the project.
+   
+this will open the new project and files in VSC.

@@ -1,7 +1,7 @@
 # new VSC Project script for mac
 
 ## description
-this simple script will create and open a new VS Code project with HTML, CSS and JS files with basic tampltes as we learned in class.
+this simple script will create and open a new VS Code project with HTML, CSS and JS files with basic templtes as we learned in class.
 
 ## Requirements
 make sure the "code" commend is avalible in your terminal. https://code.visualstudio.com/docs/setup/mac
